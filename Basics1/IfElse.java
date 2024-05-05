@@ -6,7 +6,7 @@ public class IfElse {
     if (i%2==0) {
         System.out.println("Its Even");
     } else {
-        System.out.println("Its Odd"); 
+        System.out.println("Its Odd");
      }    
    }
 }
