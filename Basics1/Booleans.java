@@ -3,7 +3,6 @@ package Basics1;
 public class Booleans { 
    public static void main(String[] args) {
     boolean MyNameIsBhuvan = true;
-    boolean MyNameIsVed = false;
     System.out.println(MyNameIsBhuvan); 
     int x = 10;
     System.out.println(x == 10); // returns true, because the value of x is equal to 10

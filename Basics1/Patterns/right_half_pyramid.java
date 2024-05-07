@@ -1,6 +1,5 @@
 //right half pyramid
 package Basics1.Patterns;
-import java.util.*;
 public class right_half_pyramid { 
    public static void main(String[] args) {
     int n = 5;
